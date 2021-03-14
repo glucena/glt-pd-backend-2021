@@ -1,0 +1,25 @@
+{
+  "name": "massimo-dutti-back",
+  "version": "1.0.0",
+  "description": "Authentication & registration backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glucena/glt-pd-backend-2021.git"
+  },
+  "author": "Gabriel Lucena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glucena/glt-pd-backend-2021/issues"
+  },
+  "homepage": "https://github.com/glucena/glt-pd-backend-2021#readme",
+  "dependencies": {
+    "fastify": "^3.14.0",
+    "fastify-auth": "^1.0.1",
+    "fastify-basic-auth": "^1.0.1",
+    "fastify-cors": "^5.2.0"
+  }
+}
